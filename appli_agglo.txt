@@ -1,0 +1,33 @@
+application qui permet de mettre en valeur les acteur du quartier
+creation d'evenement 
+wizywig
+cration de personnage du quartier
+Crud utilisateur
+
+publication d'evenement avec photo-titre-article 
+commentaire et moderation des commentaire
+publication par administrateur
+commentaire des visiteur
+moderation par administrateur sur un espace reservé à la validation des commentaire
+formulaire de contact avec classement par demande de creation d'evenement, 
+					demande de mise en avant d'un acteur local,
+					demande de reneignement,
+					reclamation
+
+formulaire de création d'utilisateur avec role
+
+
+formulaire de creation d'evenement (accessible au administrateur ) avec 
+			photo
+			titre
+			descriptif de l'evenement
+			date de l'evenement 
+			acteur concerné par l'evenement (table evenement en relation avec table acteur)
+			
+		
+
+
+
+
+symfony-flutter
+
